@@ -19,3 +19,5 @@
 4. Go to [`http://localhost:8899/sparql/`](http://localhost:8899/sparql/)
 
 5. If you need to remove data, go to `Linked Data` > `Graphs` > `Graphs` and delete your added graph.
+
+6. When you're done, ```sudo compose down``` and move on with your life.
